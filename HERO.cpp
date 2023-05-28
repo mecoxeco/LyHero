@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-
+//Chupa otário
 int main() {
     int level, maxNumber, randomNumber, tries;
     char playAgain, guess[100];
